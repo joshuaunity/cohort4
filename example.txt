@@ -1,0 +1,3 @@
+Sample data written into filenew line being added 1
+new line being added 2
+new line being added 3

@@ -1,0 +1,6 @@
+node_modules/
+sampleserver/node_modules/
+testserver/
+assignments/
+labs/
+tests/
